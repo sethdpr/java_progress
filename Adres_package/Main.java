@@ -9,5 +9,6 @@ public class Main {
         adresSeth.setPostcode(1651);
         adresSeth.setStadGemeente("LOT");
         System.out.println(adresSeth);
+        System.out.println(adresSeth);
     }
 }
